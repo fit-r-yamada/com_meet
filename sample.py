@@ -1,6 +1,5 @@
 def sumArray(array, num):
     """
-
     :param array: for sum array
     :param num: first list number
     :return: sum array
